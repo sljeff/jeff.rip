@@ -1,0 +1,13 @@
+baseURL = "https://jeff.rip"
+languageCode = "zh-Hans"
+theme = "moments"
+paginate = 10
+paginatePath = '.'
+
+[params]
+    title = "Jeff.RIP"
+    signature = "一片试验田。"
+    cover = "https://cdn.pixabay.com/photo/2018/03/13/22/53/puzzle-3223941_1280.jpg"
+
+    name = "Jeff"
+    avatar = "/img/default_avatar.png"
